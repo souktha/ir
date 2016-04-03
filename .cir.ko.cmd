@@ -1,0 +1,1 @@
+cmd_/home/ssop/blog/gitrepos/ir/cir.ko := arm-linux-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ssop/blog/gitrepos/ir/cir.ko /home/ssop/blog/gitrepos/ir/cir.o /home/ssop/blog/gitrepos/ir/cir.mod.o
